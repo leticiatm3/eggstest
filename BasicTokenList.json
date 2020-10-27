@@ -1,0 +1,72 @@
+{
+    "name": "Basic List",
+    "timestamp": "2020-09-17T12:00:00+00:00",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "keywords": [
+        "expswap",
+        "default",
+        "list"
+    ],
+    "tokens": [{
+            "address": "0x331631B4bb93b9B8962faE15860BD538a389395A",
+            "chainId": 2,
+            "name": "Wrapped Expanse",
+            "symbol": "WEXP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x331631B4bb93b9B8962faE15860BD538a389395A.png"
+        },
+        {
+            "address": "0x3B4Cfcc4532EEC161860cB6544f49947544d940d",
+            "chainId": 2,
+            "name": "Tokenlab",
+            "symbol": "LAB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x3B4Cfcc4532EEC161860cB6544f49947544d940d.png"
+        },
+        {
+            "address": "0x4F5ec5A69DBE12C48cA1edC9c52b1E8896Aed932",
+            "chainId": 2,
+            "name": "EXPEX",
+            "symbol": "PEX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x4f5ec5a69dbe12c48ca1edc9c52b1e8896aed932.png"
+        },
+        {
+            "address": "0x29a828f7D34769Ae5d788BBbe505fA5B2AbADF06",
+            "chainId": 2,
+            "name": "GXP",
+            "symbol": "GXP",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x29a828f7D34769Ae5d788BBbe505fA5B2AbADF06.png"
+        },
+        {
+            "address": "0x9D2761A714b5b2EfA325a8a3eee21BE32AACeB4A",
+            "chainId": 2,
+            "name": "LOVE",
+            "symbol": "LVE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x9D2761A714b5b2EfA325a8a3eee21BE32AACeB4A.png"
+        },
+        {
+            "address": "0x72332c512bf2dA5A7Cd11752b380F7d8fcBba847",
+            "chainId": 2,
+            "name": "ERC644",
+            "symbol": "T64",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x72332c512bf2dA5A7Cd11752b380F7d8fcBba847.png"
+        },
+        {
+            "address": "0xd1365a5Af713cde10C6ac3fB9EDBB2bBbd4B2Ba2",
+            "chainId": 2,
+            "name": "EGGs",
+            "symbol": "EGG",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x5AB20632Bad41463680975D3AaC3320F820F1fA1.png"
+        }
+
+    ]
+}
